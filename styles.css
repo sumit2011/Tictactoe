@@ -114,6 +114,7 @@ body {
   width: calc(var(--mark-size) * .7);
   height: calc(var(--mark-size) * .7);
   background-color: black;
+  animation: pulse 1s ease infinite;
 }
 
 .winning-message {
